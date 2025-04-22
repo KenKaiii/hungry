@@ -1,0 +1,20 @@
+{
+    "blacklist": [],
+    "crawl_delay": 1,
+    "export_formats": [
+        "json",
+        "csv",
+        "txt",
+        "md"
+    ],
+    "max_pages": 100,
+    "max_retries": 3,
+    "proxies": [],
+    "respect_robots_txt": true,
+    "rotate_user_agents": true,
+    "save_crawl_state": true,
+    "timeout": 15,
+    "use_proxies": false,
+    "user_agent": "HungryCrawler/1.0",
+    "whitelist": []
+}

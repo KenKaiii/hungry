@@ -1,0 +1,37 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Results and data directories
+Results/
+Crawled/
+Exports/
+Logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local configuration
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Aider files
+.aider*
+.aider.chat.history.md
+.aider.input.history
+.aider.tags.cache.json
