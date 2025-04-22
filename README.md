@@ -2,7 +2,7 @@
 
 A powerful web crawler and scraper with a terminal-based UI for extracting and analyzing web content.
 
-![Hungry Crawler](screenshot.png)
+# Hungry Crawler
 
 ## 🚀 Features
 
