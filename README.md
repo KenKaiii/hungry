@@ -25,16 +25,27 @@ A powerful web crawler and scraper with a terminal-based UI for extracting and a
 ## 🔧 Installation
 
 1. Clone this repository:
+
+   Make a new folder
+   Open up your terminal / Powershell
+   Navigate to the folder
+   ```
+   cd "name of folder"
+   ```
+   Once you're in that folder, use the "git clone" command below.
    ```
    git clone https://github.com/KenKaiii/hungry.git
+   ```
+   Now navigate to that folder that was downloaded
+   ```
    cd hungry
    ```
 
-2. Run the setup script:
+3. Run the setup script:
 
    **Windows:**
    ```
-   setup.bat
+   .\setup.bat
    ```
 
    **macOS/Linux:**
@@ -43,7 +54,7 @@ A powerful web crawler and scraper with a terminal-based UI for extracting and a
    ./setup.sh
    ```
 
-3. The setup script will:
+4. The setup script will:
    - Create a virtual environment
    - Install required dependencies
    - Set up necessary folders
@@ -55,7 +66,7 @@ Run the crawler:
 
 **Windows:**
 ```
-hungry.bat
+.\hungry.bat
 ```
 
 **macOS/Linux:**
