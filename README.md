@@ -3,6 +3,9 @@
 A powerful web crawler and scraper with a terminal-based UI for extracting and analyzing web content.
 
 
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
+
 ## 🚀 Features
 
 - **Web Crawling**: Discover and map all pages on a website
